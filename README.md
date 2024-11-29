@@ -5,7 +5,7 @@ Capstone project of the Data Scientist Nanodegree
 This project is about solving a customer segmentation analysis and developing a predictive model for the company Arvato. The company's client, who are we solving this problem for, is running a mail-order business. The company has provided extensive datasets containing detailed information about their past customers as well as the general population, who are not their customers. This is mostly demographic data about the German population. The goal of this project is to help Arvato identify the key differences and factors that determine whether someone is a customer or not. Gaining these insights can lead to a more targeted and efficient mailout campaign, attracting new customers and potentially generating significant revenue for the company.This project involves complex analysis, combining both unsupervised and supervised data science techniques. It begins with segmentation analysis to better understand the data, followed by the development of a predictive model capable of classifying potential customers.
 
 `Read about this project on Kaggle, please see it below, as it offers some extra visualizations.`<br>
-ARTICLE LINK PLACEHOLDER HERE<br>
+https://www.kaggle.com/code/tomcajan/udacity-arvato-capstone-project/<br>
 
 --------------------------
 **2. Technical Overview**<br>
